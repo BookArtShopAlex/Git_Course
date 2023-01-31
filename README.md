@@ -15,7 +15,7 @@ THIS
 
 __Color Test__
 
-shade 1 `#11EEAA`
+shade 1 `rgb(9, 105, 218)`
 
 __Emojis__
 
