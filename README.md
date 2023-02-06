@@ -2,8 +2,6 @@
 
 _This Repo is for Training Git_
 
-__this is bookartshop acc update__
-
 ### Markdown Syntax
 
 Hello
